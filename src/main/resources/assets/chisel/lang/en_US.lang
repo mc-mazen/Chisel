@@ -1542,6 +1542,10 @@ tile.chisel.stonebrickextra.indent.desc.1=Indented
 tile.chisel.stonebrickextra.marker.desc.1=Marker
 tile.chisel.stonebrickextra.sunken.desc.1=Sunken
 tile.chisel.stonebrickextra.poison.desc.1=Poison
+tile.chisel.stonebrickextra.mason-plain.desc.1=Modern Neutral Masonry
+tile.chisel.stonebrickextra.mason-felsic.desc.1=Modern Felsic Masonry
+tile.chisel.stonebrickextra.mason-mafic.desc.1=Modern Mafic Masonry
+tile.chisel.stonebrickextra.mason-mixed.desc.1=Modern Mixed Masonry
 
 tile.chisel.technical.name=Factory Block
 tile.chisel.technical.scaffold.desc.1=Rusty Scaffold

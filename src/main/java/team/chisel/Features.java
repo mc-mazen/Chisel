@@ -2101,6 +2101,10 @@ public enum Features {
                     .next("largeornate")
                     .next("poison")
                     .next("sunken")
+                    .next("mason-plain")
+                    .next("mason-felsic")
+                    .next("mason-mafic")
+                    .next("mason-mixed")
                     .build(b -> b.setHardness(1.5F).setResistance(10.0F).setSoundType(SoundType.STONE));
         }
     },
